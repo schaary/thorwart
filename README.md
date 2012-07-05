@@ -8,7 +8,7 @@ Bisher geschehen:
     thor db:create_table
     thor db:read_config
 
-Informationen gibt es auf folgenden Seiten:
+Informationen gibt es auf folgenden Seiten [1], [2] und [3]
 
 [1]: https://github.com/wycats/thor      "The Github page of the project"
 [2]: http://rdoc.info/github/wycats/thor         "The rdoc info page" 
