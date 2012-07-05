@@ -10,7 +10,7 @@ Bisher geschehen:
 
 Informationen gibt es auf folgenden Seiten:
 
-  [1]: https://github.com/wycats/thor      The Github page of the project
-  [2]: http://rdoc.info/github/wycats/thor         The rdoc info page 
-  [3]: http://rubylearning.com/blog/2011/01/03/how-do-i-make-a-command-line-tool-in-ruby/      Very interessting article about the example project
+    [1]: https://github.com/wycats/thor      "The Github page of the project"
+    [2]: http://rdoc.info/github/wycats/thor         "The rdoc info page" 
+    [3]: http://rubylearning.com/blog/2011/01/03/how-do-i-make-a-command-line-tool-in-ruby/      "Very interessting article about the example project"
 
