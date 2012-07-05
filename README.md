@@ -4,9 +4,9 @@ Nutzerprojektes nuetzlich ist.
 
 Bisher geschehen:
 
-  thor db:create_db
-  thor db:create_table
-  thor db:read_config
+    thor db:create_db
+    thor db:create_table
+    thor db:read_config
 
 Informationen gibt es auf folgenden Seiten:
 
